@@ -177,3 +177,5 @@ servo(6,70,200)
 time.sleep(.2)
 
 servo(4,90)
+#hola solo estoy probando
+
